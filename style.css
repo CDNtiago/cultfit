@@ -1,0 +1,19 @@
+/*background-color: #B71515; */
+
+.body {
+  background-color: aqua;
+}
+.header {
+  position: fixed;
+  margin-top: 0;
+  margin-left: 0;
+  max-height: 100px;
+  background-color: #b71515;
+}
+
+.logo {
+  width: 150px;
+  height: 150px; /* Mantém a proporção original da imagem */
+  display: block; /* Remove espaços indesejados abaixo da imagem */
+  margin-bottom: 30px; /* Adiciona algum espaçamento abaixo do logotipo */
+}
