@@ -2,4 +2,4 @@
 
 <?php include './pages/mainpage.php'; ?>
 
-
+<?php include './includes/footer.php'; ?>
